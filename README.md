@@ -1,2 +1,3 @@
-# woofer
-Woofer: Twitter for Dogs 🐶
+# FitKit
+FitKit: Exercise Tracker (MERN) 👟
+
